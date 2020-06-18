@@ -4,20 +4,15 @@
 
        1. Create markdown resume based on a few professions
 
-       2. Upload image, edit personal info 
+       2. Output Markdown to terminal
 
-       3. Use Readline if possible
 
 # App Logic
 
-       1. Determine profession  
+       1. Determine profession based on input   
 
-       2. Obtain image, and perosnal details 
-
-       3. Output resume   
+       2. Output resume type to terminal as markdown 
 
 # Stretch Goals
 
-       1. Output HTML 
-
-       2. Upload to server 
+       1. Create markdown file
