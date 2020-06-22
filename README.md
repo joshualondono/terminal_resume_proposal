@@ -1,4 +1,4 @@
-# Password Protected Directory Summary
+# Summary
 
 View phone number of members of a directory with password protection on terminal 
        
