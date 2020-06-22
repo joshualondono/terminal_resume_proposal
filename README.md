@@ -6,7 +6,7 @@ View contact info of members of a directory with password protection.
 
 1. Running the command
   	
-~~~~ js
+~~~~ 
 
 node main.js fname, lname, pass
 
