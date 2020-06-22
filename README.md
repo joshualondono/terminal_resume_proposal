@@ -1,9 +1,6 @@
 # Password Protected Directory Summary
 
-       1. Input
-       2. View members 
-       3. View Phone Number 
-       4. 3 terminal arg >> fname, lname, pass
+View contact info of members of a directory with password protection. 
        
 # Getting Started 
 
