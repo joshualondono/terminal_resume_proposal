@@ -11,10 +11,10 @@ Installing
 
 ~~~~
 $ git clone https://github.com/joshualondono/terminal_resume_proposal
-$ cd ./iffy 
+$ cd ./terminal_resume_proposal 
 ~~~~
 
-Installing the Node
+Installing Node
 
 ~~~~
 $ npm init -y
