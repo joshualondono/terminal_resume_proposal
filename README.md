@@ -29,6 +29,8 @@ $ node main.js fname, lname, pass
 
 ~~~~
 
+# Example
+
 ![A test image](example.png)
 
 
@@ -65,4 +67,5 @@ function getPhone(param1,param2){
 # Details
 
        1. Password can be specific to contact 
-       2. Not very secure
+       2. Password is case sensitive
+       3. Not very secure
