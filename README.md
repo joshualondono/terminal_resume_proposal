@@ -15,7 +15,7 @@ node main.js fname, lname, pass
 
 # App Logic
 
-1. Add password to view members (2 possible passwords)
+1. Outputs directory of members without contact when contact name is incorrect 
   	
 ~~~~ js
 
@@ -24,8 +24,7 @@ const member = (pass === 'codeimmersives' || pass === 'Codingisfun') ? 'members 
 
 ~~~~
 
-2. Output phone number to terminal  
-
+2. Output phone number to terminal when contact name is correct 
 ~~~~ js
 
 function getPhone(param1,param2){
