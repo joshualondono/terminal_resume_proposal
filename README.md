@@ -1,6 +1,6 @@
 # Password Protected Directory Summary
 
-View contact info of members of a directory with password protection. 
+View phone number of members of a directory with password protection on terminal 
        
 # Getting Started 
 
@@ -15,7 +15,7 @@ node main.js fname, lname, pass
 
 # App Logic
 
-1. Outputs directory of members without contact when contact name is incorrect 
+1. Outputs directory of members without phone number when contact name is incorrect 
   	
 ~~~~ js
 
