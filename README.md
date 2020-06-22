@@ -4,11 +4,28 @@ View phone number of members of a directory with password protection on terminal
        
 # Getting Started 
 
+Prerequisites
+You will need to install node and terminal in order to use the app.
+
+Installing
+
+~~~~
+$ git clone https://github.com/joshualondono/terminal_resume_proposal
+$ cd ./iffy 
+~~~~
+
+Installing the Node
+
+~~~~
+$ npm init -y
+$ npm i
+~~~~
+
 1. Running the command
   	
 ~~~~ 
 
-node main.js fname, lname, pass
+$ node main.js fname, lname, pass
 
 ~~~~
 
