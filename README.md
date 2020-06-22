@@ -29,6 +29,8 @@ $ node main.js fname, lname, pass
 
 ~~~~
 
+![A test image](example.png)
+
 
 # App Logic
 
